@@ -1,5 +1,5 @@
 Django==1.11.20
 django-markdown-deux==1.0.5
-markdown2==2.3.7
+markdown2==2.4.0
 pytz==2018.9
 #hello world'
